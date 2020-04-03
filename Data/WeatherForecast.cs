@@ -1,6 +1,6 @@
 using System;
 
-namespace GettingStarted.Data
+namespace MyBlazorServerApp.Data
 {
     public class WeatherForecast
     {

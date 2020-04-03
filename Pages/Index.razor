@@ -1,7 +1,7 @@
 ﻿@page "/"
+@using Syncfusion.Blazor.PivotView
 
-<EjsPivotView TValue="ProductDetails" Height="560" Width="1020" ShowGroupingBar="true"
-ShowFieldList="true">
+<SfPivotView TValue="ProductDetails" Height="560" Width="1200" ShowGroupingBar="true" ShowFieldList="true">
     <PivotViewDataSourceSettings DataSource="@dataSource">
         <PivotViewColumns>
             <PivotViewColumn Name="Year"></PivotViewColumn>
@@ -21,29 +21,30 @@ ShowFieldList="true">
             <PivotViewFormatSetting Name="Amount" Format="C"></PivotViewFormatSetting>
         </PivotViewFormatSettings>
     </PivotViewDataSourceSettings>
-</EjsPivotView>
+</SfPivotView>
 
 @code{
 
     public List<ProductDetails> dataSource {get;set;}
 
-    protected override void OnInitialized()
-    {
-        this.dataSource = ProductDetails.GetProductData();
-    }
+        protected override void OnInitialized()
+        {
+            base.OnInitialized();
+            this.dataSource = ProductDetails.GetProductData();
+        }
 
-    public class ProductDetails
+        public class ProductDetails
     {
-            public int Sold { get; set; }
-            public double Amount { get; set; }
-            public string Country { get; set; }
-            public string Products { get; set; }
-            public string Year { get; set; }
-            public string Quarter { get; set; }        
+        public int Sold { get; set; }
+        public double Amount { get; set; }
+        public string Country { get; set; }
+        public string Products { get; set; }
+        public string Year { get; set; }
+        public string Quarter { get; set; }
 
-            public static List<ProductDetails> GetProductData()
-                {
-                    List<ProductDetails> productData = new List<ProductDetails>();
+        public static List<ProductDetails> GetProductData()
+        {
+            List<ProductDetails> productData = new List<ProductDetails>();
                 productData.Add(new ProductDetails { Sold = 31, Amount = 52824, Country = "France", Products = "Mountain Bikes", Year = "FY 2015", Quarter = "Q1" });
                 productData.Add(new ProductDetails { Sold = 51, Amount = 86904, Country = "France", Products = "Mountain Bikes", Year = "FY 2015", Quarter = "Q2" });
                 productData.Add(new ProductDetails { Sold = 90, Amount = 153360, Country = "France", Products = "Mountain Bikes", Year = "FY 2015", Quarter = "Q3" });
@@ -121,6 +122,6 @@ ShowFieldList="true">
                 productData.Add(new ProductDetails { Sold = 99, Amount = 345860, Country = "United States", Products = "Road Bikes", Year = "FY 2017", Quarter = "Q4" });
                
                 return productData;
-                }
+        }
     }
 }

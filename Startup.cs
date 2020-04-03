@@ -9,10 +9,10 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using GettingStarted.Data;
-using Syncfusion.EJ2.Blazor;
+using MyBlazorServerApp.Data;
+using Syncfusion.Blazor;
 
-namespace GettingStarted
+namespace MyBlazorServerApp
 {
     public class Startup
     {
@@ -36,7 +36,7 @@ namespace GettingStarted
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Your License Key");
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Your Syncfusion License Key");
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
