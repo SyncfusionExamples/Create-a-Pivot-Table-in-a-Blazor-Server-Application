@@ -2,7 +2,7 @@
 
 This is a quick-start project that helps you create the Blazor Pivot Table from Syncfusion in a Blazor server app. This example explains how to add required fields in the Blazor Pivot Table and shows you how to add useful features to your Pivot Table too, like a grouping bar, filtering, formatting, and a field list.
 
-Watch a how-to video:<coming soon>
+Watch a how-to video:https://www.syncfusion.com/tutorial-videos/blazor/pivot-table?title=create-a-pivot-table-in-a-blazor-server-application
 
 Documentation: https://blazor.syncfusion.com/documentation/pivot-table/getting-started
 
