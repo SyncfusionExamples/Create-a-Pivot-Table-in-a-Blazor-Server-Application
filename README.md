@@ -69,7 +69,7 @@ Export Blazor pivot table data to [Excel](https://blazor.syncfusion.com/document
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
 [Documentation](https://blazor.syncfusion.com/documentation/pivot-table/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
 [Online Examples](https://blazor.syncfusion.com/demos/pivot-table/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
-[Watch a How-to Video](https://www.syncfusion.com/tutorial-videos/blazor/pivot-table?title=create-a-pivot-table-in-a-blazor-server-application) <br/><br/>
+[Watch a How-to Video](https://www.syncfusion.com/tutorial-videos/blazor/pivot-table?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
 [Community Forums](https://www.syncfusion.com/forums/blazor-components/pivot-table?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
 [Suggest a feature](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples)
 
