@@ -18,17 +18,8 @@ To get more help, check out the [ASP.NET Core Blazor documentation](https://lear
 
 ## Features and benefits
 
-### Pivot Chart
-[Blazor Pivot Charts](https://blazor.syncfusion.com/documentation/pivot-table/pivot-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) can easily be integrated with pivot data rendered independently, including functionality for plotting more than 20 types of pivot charts. The end user experience is greatly enhanced by including a set of user-interactive features such as zooming, panning, crosshair, trackball, events, selection, and tooltip. Highly interactive field list options are available for generating reports on top of the relational data dynamically.
-
 ### Drill down/Drill up
 Provides built-in [drill down](https://blazor.syncfusion.com/documentation/pivot-table/drill-down?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) (expand) and drill up (collapse) capabilities to visualize data both in a detailed view and abstract view, respectively. By default, data is displayed in a grouped manner.
-
-### Defer layout update
-Users can refresh the component [on demand](https://blazor.syncfusion.com/documentation/pivot-table/defer-layout-update?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) instead of during every UI interaction in the Blazor Pivot Table.
-
-### Editing and updating
-Users can create, read, update, and delete operations for raw data at runtime and update their changes to the underlying data source, thereby reflecting the information in all corresponding cells. The component supports various [edit](https://blazor.syncfusion.com/documentation/pivot-table/editing?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) modes such as inline, dialog, batch edit, and column edit through an interactive UI.
 
 ### Filtering
 Built-in normal and Excel-like filters with advanced [filtering](https://blazor.syncfusion.com/documentation/pivot-table/filtering?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) options to easily filter and view data as required. It is also possible to filter programmatically.
@@ -39,23 +30,11 @@ Built-in normal and Excel-like filters with advanced [filtering](https://blazor.
 ### Aggregation
 Users can perform calculations on a group of values using the [aggregation](https://blazor.syncfusion.com/documentation/pivot-table/aggregation?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) option. By default, values are added together. The other aggregation types are average, minimum, maximum, count, distinct count, product, index, population stdev, sample stdev, population var, sample var, running totals, difference from, % of difference from, and % of grand total.
 
-### Calculated field
-The [calculated field](https://blazor.syncfusion.com/documentation/pivot-table/calculated-field?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples), otherwise known as unbound field, generates a unique field with the user’s own calculated value by executing a simple user-defined formula.
-
-### Drill through
-The [drill-through](https://blazor.syncfusion.com/documentation/pivot-table/drill-through?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) feature easily obtains a list of raw items for a particular value cell or summary cell.
-
 ### Totals
 Subtotals and grand totals are calculated automatically by the pivot engine in the component and displayed in the pivot table. This helps users make decisions based on the [totals](https://blazor.syncfusion.com/demos/pivot-table/show-hide-totals?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples).  Also, users can show or hide subtotals and grand totals for rows and columns.
 
 ### Conditional formatting
 Allows users to define [conditions](https://blazor.syncfusion.com/documentation/pivot-table/conditional-formatting?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) that, when met, format font style, text color, background color, and font size for values and summary cells.
-
-### Number formatting and date formatting
-[Number formatting](https://blazor.syncfusion.com/documentation/pivot-table/number-formatting?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) and date formatting helps transform the appearance of the actual cell value.
-
-### Grouping date and number
-The Blazor Pivot Table component automatically [groups dates and numbers](https://blazor.syncfusion.com/documentation/pivot-table/grouping?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples), so that the date type can be formatted and displayed based on year, quarter, month, day, and more. The number type can be grouped by range, such as 1-5 or 6-10.
 
 ### Toolbar
 The [Toolbar](https://blazor.syncfusion.com/documentation/pivot-table/tool-bar?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) feature provides a built-in interface for pivot tables to select frequently used features interactively for easy access. These features include New Report, Save Report, Save As Report, Rename Report, Delete Report, Report List, Show Grid, Show Chart, Show or Hide Totals, Export Reports, and more.
