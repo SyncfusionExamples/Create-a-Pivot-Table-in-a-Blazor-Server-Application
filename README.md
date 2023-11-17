@@ -1,6 +1,6 @@
 # Create a Pivot Table in a Blazor Server Application
 
-The [Blazor Pivot Table](https://www.syncfusion.com/blazor-components/blazor-pivot-table/?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) is a powerful control used to organize and summarize business data and display the result in a cross-table format. This quick-start Blazor server app project will help you create the Blazor Pivot Table from Syncfusion in a Blazor server app. This example explains how to add required fields in the Blazor Pivot Table and shows you how to add useful features to your Pivot Table too, like a grouping bar, filtering, formatting, and a field list.
+The [Blazor Pivot Table](https://www.syncfusion.com/blazor-components/blazor-pivot-table?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) is a powerful control used to organize and summarize business data and display the result in a cross-table format. This quick-start Blazor server app project will help you create the Blazor Pivot Table from Syncfusion in a Blazor server app. This example explains how to add required fields in the Blazor Pivot Table and shows you how to add useful features to your Pivot Table too, like a grouping bar, filtering, formatting, and a field list.
 
 ## Prequisites
 
