@@ -47,10 +47,11 @@ Export Blazor pivot table data to [Excel](https://blazor.syncfusion.com/document
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
 [Documentation](https://blazor.syncfusion.com/documentation/pivot-table/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
+[View Demo](https://github.com/SyncfusionExamples/Create-a-Pivot-Table-in-a-Blazor-Server-Application?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
+[Community Forums](https://www.syncfusion.com/forums/blazor-components/pivot-table?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
+[Suggest a feature](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
 [Online Examples](https://blazor.syncfusion.com/demos/pivot-table/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
 [Watch a How-to Video](https://www.syncfusion.com/tutorial-videos/blazor/pivot-table?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
-[Community Forums](https://www.syncfusion.com/forums/blazor-components/pivot-table?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) <br/><br/>
-[Suggest a feature](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples)
 
 ## About Syncfusion Blazor Components
 Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples) library offers over 80 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Pivot Table, we provide popular Blazor components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-pivot-table-github-samples), 
